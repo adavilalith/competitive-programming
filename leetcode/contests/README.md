@@ -1,6 +1,7 @@
 # 🏆 LeetCode Contest Review
 
 ### 📊 Performance
+**Date:** DD-MM-YY
 * **Contest:** Weekly / Biweekly Contest [Number]
 * **Rank:** #______ / ______
 * **Solved:** ___ / 4
