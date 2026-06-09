@@ -1,0 +1,32 @@
+# 🏆 Contest Review
+
+### 📊 Performance
+* **Date:** 09-06-2026
+* **Contest:** Educational Codeforces Round 191 (Rated for Div. 2)
+* **Rank:** 7931  / 18102
+* **Solved:** 2 / 6
+* **Delta:** TBD
+
+---
+
+## ⏱️ Timeline & Strategy
+* **Problem A:** [x] Solved in  29 mins | [ ] Scraped / Bugs: 
+* **Problem B:** [x] Solved in  45 mins | [ ] Scraped / Bugs: 
+* **Problem C:** [ ] Solved in ___ mins | [x] Scraped / Bugs: 
+* **Problem D:** [ ] Solved in ___ mins | [ ] Scraped / Bugs: 
+* **Problem E:** [ ] Solved in ___ mins | [ ] Scraped / Bugs: 
+* **Problem F:** [ ] Solved in ___ mins | [ ] Scraped / Bugs: 
+
+---
+
+## 🧠 Post-Contest Retrospective
+
+### 💡 What Went Well
+* did A and B quickly and in one shot without errors
+
+### 🛑 Bottlenecks & Mistakes (Where did time get wasted?)
+* Misidentified C as greedy when it was DP. 
+* also i join contest like 20 mins late.
+
+### 🎯 Upsolving Notes (The Core Takeaways)
+* **Problem __:** **TO DO**
