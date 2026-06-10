@@ -3,9 +3,9 @@
 ### 📊 Performance
 * **Date:** 09-06-2026
 * **Contest:** Educational Codeforces Round 191 (Rated for Div. 2)
-* **Rank:** 7931  / 18102
+* **Rank:** 9344  / 21958
 * **Solved:** 2 / 6
-* **Delta:** TBD
+* **Delta:** +40
 
 ---
 
@@ -25,8 +25,12 @@
 * did A and B quickly and in one shot without errors
 
 ### 🛑 Bottlenecks & Mistakes (Where did time get wasted?)
-* Misidentified C as greedy when it was DP. 
+* ~~Misidentified C as greedy when it was DP.~~
+* C was greedy  
 * also i join contest like 20 mins late.
 
 ### 🎯 Upsolving Notes (The Core Takeaways)
-* **Problem __:** **TO DO**
+* **Problem C:** 
+    - watched this [YT vid](https://www.youtube.com/watch?v=lGlVYPM6UyU) explaining the logic. tried to implement it but had to watch solution too. 
+    - The solution was in cpp but i was able to implement in python easily.
+    - learnt a new way of thinking about what brackets to keep track off, i.e for '(' to its left only care for '(' and to its right only care for ')'. 
