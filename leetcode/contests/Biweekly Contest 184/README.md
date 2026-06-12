@@ -3,9 +3,9 @@
 ### 📊 Performance
 * **Date:** 06-06-2026
 * **Contest:** Biweekly Contest [184]
-* **Rank:** 2423 / 35,747
+* **Rank:** 2,062 / 35,747
 * **Solved:** 3 / 4
-* **Delta:** TBD
+* **Delta:** +46
 
 ---
 
