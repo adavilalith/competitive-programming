@@ -1,7 +1,7 @@
 # 🏆 Contest Review
 
 ### 📊 Performance
-* **Date:** DD-MM-Y
+* **Date:** DD-MM-YYYY
 * **Contest:** 
 * **Rank:** #______ / ______
 * **Solved:** ___ / ___
