@@ -3,7 +3,7 @@
 ### 📊 Performance
 * **Date:** 09-06-2026
 * **Contest:** Educational Codeforces Round 191 (Rated for Div. 2)
-* **Rank:** 9344  / 21958
+* **Rank:** 8478  / 14949
 * **Solved:** 2 / 6
 * **Delta:** +40
 
