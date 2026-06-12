@@ -6,8 +6,8 @@ A repository tracking my daily practice, contest performance, and algorithmic te
 
 ## 📊 Account Snapshot
 
-* **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/adavilalith/) | 🎖️ Current Rating: `1,709` | 🚀 Peak Rating: `1,709`
-* **Codeforces:** [My Codeforces Profile](https://codeforces.com/profile/htilalivada) | 🎖️ Current rating: `1073 ` | 🚀 Peak Rating: `1073 `
+* **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/adavilalith/) | 🎖️ Current Rating: `1,755` | 🚀 Peak Rating: `1,755`
+* **Codeforces:** [My Codeforces Profile](https://codeforces.com/profile/htilalivada) | 🎖️ Current rating: `1113` | 🚀 Peak Rating: `1113`
 
 ---
 
